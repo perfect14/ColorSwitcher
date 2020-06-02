@@ -1,0 +1,47 @@
+body{
+	height: 500px;
+	margin-left: 30%;
+
+}
+
+.circle{
+	list-style: none;
+	display: flex;
+}
+
+#grey{
+	background-color: grey;
+	height: 5\70px;
+	width: 70px;
+	margin: 10px 10px 10px -5%;
+	border: 1px solid grey;
+	border-radius: 70%;
+}
+
+#whitesmoke{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	margin: 10px;
+	border:1px solid grey;
+	border-radius: 70%;
+}
+
+#blue{
+	background-color: blue;
+	height: 70px;
+	width: 70px;
+	margin: 10px;
+	border: 1px solid grey;
+	border-radius: 70%;
+}
+
+#yellow{
+	background-color: yellow;
+	height: 70px;
+	width: 70px;
+	margin: 10px;
+	border: 1px solid grey;
+	border-radius: 70%;
+}
+
